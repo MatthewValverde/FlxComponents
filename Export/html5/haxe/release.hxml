@@ -1,0 +1,15 @@
+-main ApplicationMain 
+-lib openfl
+-cp Source
+-cp Assets
+-D nme_ver=3.5.6
+-D nme_install_tool=1
+-D nme3=1
+-D html5
+-D web
+-js Export/html5/bin/DisplayingABitmap.js
+-cp Export/html5/haxe
+-D html5
+-D html
+--remap flash:nme
+--remap native:browser

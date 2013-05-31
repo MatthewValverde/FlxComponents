@@ -1,0 +1,12 @@
+-main ApplicationMain 
+-lib openfl
+-cp Source
+-cp Assets
+-D nme_ver=3.5.6
+-D nme_install_tool=1
+-D nme3=1
+-D web
+-swf-version 11
+-swf Export/flash/bin/DisplayingABitmap.swf
+-swf-header 800:600:30:FFFFFF
+-cp Export/flash/haxe
