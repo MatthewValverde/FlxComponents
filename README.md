@@ -1,4 +1,4 @@
-# OpenFL / HAXW
+# OpenFL / HAXE
 
 ## FlxComponents
 
